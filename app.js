@@ -432,7 +432,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "GAIDINGLUNG",
     roll: "NDUIBC2565", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "GAIDINGLUNG KAMEI.jpg", reason: "SUNFLOWER" },
 
   // ── BCA Section C ────────────────────────────────────────────────────
   { name: "YENGKHOM ARYA SINGH",
